@@ -6,6 +6,6 @@ If you have a question about or an issue with one of my datapacks, or you just w
 links:
 - https://en.pronouns.page/@ChloeIsNobody
 - https://ko-fi.com/chloeisnobody
-- reddit.com/user/CaresofNobody
-- chloeisnobody.tumblr.com
-- youtube.com/channel/UCFuHTg4zEllbiQWfxh63lkg
+- https://reddit.com/user/CaresofNobody
+- https://chloeisnobody.tumblr.com
+- https://youtube.com/channel/UCFuHTg4zEllbiQWfxh63lkg
