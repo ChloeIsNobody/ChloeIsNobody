@@ -6,7 +6,6 @@ links:
 - https://en.pronouns.page/@ChloeIsNobody
 - https://ko-fi.com/chloeisnobody
 - https://chloeisnobody.tumblr.com
-- https://youtube.com/channel/UCFuHTg4zEllbiQWfxh63lk
 
 
 pfp made by [GwenPessoa](https://www.tumblr.com/gwenpessoa)
